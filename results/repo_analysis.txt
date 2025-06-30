@@ -1,0 +1,63 @@
+=== Commit Statistics ===
+   158	rachaelpai
+    20	Rachael Pai
+    19	yihau
+     5	Yihau Chen
+     2	Brennan
+     1	pieceofr
+
+=== Author Details ===
+作者: Brennan
+Added: 22 Removed: 18 Net: 4
+-n 首次提交: 
+2024-04-28 202abde flip error check polarity (#43)
+-n 最近提交: 
+2024-04-29 8991bc7 clean up comments and naming (#44)
+
+作者: pieceofr
+Added: 2 Removed: 0 Net: 2
+-n 首次提交: 
+2022-06-05 706577b add RequestUnits & ComputeUnitPrice for config.yaml.sample-n 最近提交: 
+2022-06-05 706577b add RequestUnits & ComputeUnitPrice for config.yaml.sample
+作者: Rachael
+Added: 27 Removed: 6 Net: 21
+-n 首次提交: 
+2022-01-23 9835526 Update README.md
+-n 最近提交: 
+2023-02-04 5fc6619 Merge pull request #39 from solana-labs/use-getlatestblockhash
+
+作者: Pai
+Added: 27 Removed: 6 Net: 21
+-n 首次提交: 
+2022-01-23 9835526 Update README.md
+-n 最近提交: 
+2023-02-04 5fc6619 Merge pull request #39 from solana-labs/use-getlatestblockhash
+
+作者: rachaelpai
+Added: 7656 Removed: 4466 Net: 3190
+-n 首次提交: 
+2022-01-12 0d9bedf feature:workable api server fo solana ping in devnet
+-n 最近提交: 
+2023-02-03 79705be use GetLatestBlockhash instead of GetRecentBlockhash
+
+作者: yihau
+Added: 1439 Removed: 208 Net: 1231
+-n 首次提交: 
+2022-07-09 6520a44 fix: mainnet use pure transfer tx
+-n 最近提交: 
+2024-04-25 7763e6c skip preflight
+
+作者: Yihau
+Added: 175 Removed: 68 Net: 107
+-n 首次提交: 
+2022-05-24 d8da9db add additional fee on testnet ping transaction (#2)
+-n 最近提交: 
+2024-04-25 8296c73 use confirmed commitment (#42)
+
+作者: Chen
+Added: 175 Removed: 68 Net: 107
+-n 首次提交: 
+2022-05-24 d8da9db add additional fee on testnet ping transaction (#2)
+-n 最近提交: 
+2024-04-25 8296c73 use confirmed commitment (#42)
+
