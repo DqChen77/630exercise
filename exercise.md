@@ -4,10 +4,6 @@
   - 检查commit数量，修改行数，第一次、最后一次提交日期等
   scripts/RepoAnalysis.sh
   
-- 比较一个Repo中的两个Commit的差异https://github.com/jup-ag/jup-lock，比较2d45d4069f9608765c0cfeb8bb154a0d7a3e19b3和2995552b3d94c040f340854552597c3386d79f8f的差异
-  https://github.com/jup-ag/jup-lock/compare/2d45d4069f9608765c0cfeb8bb154a0d7a3e19b3...2995552b3d94c040f340854552597c3386d79f8f
-
-  - 检查文件变化和行变化数是否正确
 
 
 ​    
